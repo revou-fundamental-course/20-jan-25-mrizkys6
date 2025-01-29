@@ -28,16 +28,3 @@ Aplikasi ini dibangun menggunakan teknologi berikut:
 7. Hasil akan ditampilkan, menampilkan nilai BMI Anda dan kategori berat badan Anda.
 8. Informasi tambahan tentang BMI dan risiko kesehatan juga akan disediakan.
 9. Klik tombol "hitung lagi" untuk menghitung BMI Anda lagi.
-
-## Instalasi
-1. Clone repository ini
-```bash
-$ git clone https://github.com/revou-fundamental-course/10-jul-23-HizkiaReppi.git
-```
-2. Setelah proses cloning selesai, masuk ke dalam direktori proyek
-```bash
-$ cd 10-jul-23-HizkiaReppi
-```
-3. Buka file index.html dengan peramban web untuk menggunakan kalkulator BMI.
-
-Create with ♥ by <a href="https://github.com/HizkiaReppi/">Hizkia Reppi</a>
